@@ -51,15 +51,16 @@ The digit can be chosen in function *choose_num*
 
 * perform PCA over all digit '3' with 2 components
 
+![img](../imgs/hw2_3_p.png)
+
 ![img](../imgs/hw2_3_i.png)
 
-![img](../imgs/hw2_3_p.png)
 
 * perform PCA over all digit '6' with 2 components
 
-![img](../imgs/hw2_6_i.png)
-
 ![img](../imgs/hw2_6_p.png)
+
+![img](../imgs/hw2_6_i.png)
 
 
 ## Reference
